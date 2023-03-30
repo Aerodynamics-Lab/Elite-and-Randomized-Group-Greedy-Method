@@ -1,0 +1,9 @@
+P_ERGG_random.m -> main proglam for sensor selection in random problem
+
+
+P_ERGG_NACA.m -> main proglam for sensor selection in PIV data around NACA0015
+
+Dataset is available at 
+http://www.aero.mech.tohoku.ac.jp/rom/Nonomura2021-Airfoil-PIV-data-for-linear-ROM-18.zip 
+
+Script for visualization of sensor location and reconstructed velocity field is "NACA_visualization/P_visualize.m" 
